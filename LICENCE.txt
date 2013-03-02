@@ -1,3 +1,5 @@
+Apache 2.0 licence
+
 #COPYRIGHT 
 @AUTOR RONALD LANDA MENDOZA
- =D
+ 
